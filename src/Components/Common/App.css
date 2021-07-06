@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  font-family: Cascadia Code;
+}
+
+body {
+  background-color: papayawhip;
+  background: url(../../img/Brazilian_Churrasco.jpg);
+  outline: blueviolet;
+  display: flex;
+  flex-direction: column;
+}
+
