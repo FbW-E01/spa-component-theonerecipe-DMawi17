@@ -1,6 +1,6 @@
-// import React from "react";
 import IngredientsList from "./IngredientsList";
 import Instructions from "./Instructions";
+import "../scss/style.scss";
 
 const Recipe = ({ name, ingredients, steps }) => {
     return (

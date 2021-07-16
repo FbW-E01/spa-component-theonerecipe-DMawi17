@@ -1,6 +1,5 @@
-// import React from 'react';
 import Recipe from "./Recipe";
-import '../Scss/style.scss';
+import "../scss/style.scss";
 
 const Menu = ({ recipe }) => {
     return (
