@@ -1,5 +1,5 @@
 import Recipe from "./Recipe";
-import "../scss/style.scss";
+// import "../scss/style.scss";
 
 const Menu = ({ recipe }) => {
     return (
