@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Brazilian Churrasco",
+    "ingredients": [
+      {
+        "name": "Beef skirt (onglet), flank or bavette steak",
+        "amount": 1,
+        "measurement": "kg"
+      },
+      {
+        "name": "Garlic cloves, crushed",
+        "amount": 3,
+        "measurement": ""
+      },
+      {
+        "name": "Limes juice",
+        "amount": 2,
+        "measurement": ""
+      },
+      {
+        "name": "Red wine vinegar",
+        "amount": 1.5,
+        "measurement": "tablespoons"
+      },
+      {
+        "name": "Worcestershire sauce",
+        "amount": 1.5,
+        "measurement": "tablespoons"
+      },
+      {
+        "name": "Grated onion",
+        "amount": 1,
+        "measurement": "small"
+      },
+      {
+        "name": "Cumin seeds",
+        "amount": 2,
+        "measurement": "teaspoons"
+      },
+      {
+        "name": "Aleppo pepper or chilli flakes",
+        "amount": 3,
+        "measurement": "teaspoons"
+      },
+      {
+        "name": "Olive oil, plus extra for drizzling",
+        "amount": 1.5,
+        "measurement": "teaspoons"
+      }
+    ],
+    "steps": [
+      "first Cut the steak into 4–6 even portions and season well with salt",
+      "and freshly ground black pepper on both sides then put the steak in a shallow non-metallic dish.",
+      "Put the remaining ingredients in a small bowl and mix well.",
+      "Pour the marinade over the steaks, turn to coat, then cover and refrigerate overnight.",
+      "Remove from the refrigerator 1 hour before cooking to bring the meat back to room temperature.",
+      "Preheat a barbecue or chargrill pan until very hot.",
+      "Remove the meat from the marinade and pat dry on paper towel, then drizzle with a little extra oil and season with extra salt and pepper.",
+      "Thread two long metal skewers through two of the steaks and repeat with the others.",
+      "Grill for 3–4 minutes on each side or until cooked to your liking."
+    ]
+  }
+]
